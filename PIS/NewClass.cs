@@ -8,5 +8,8 @@ namespace PIS_VJ1
 {
     internal class NewClass
     {
+         static void MojaMetoda()
+        {
+        }
     }
 }
